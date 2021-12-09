@@ -1,0 +1,26 @@
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;}
+
+.mystylesfont {font-family:'Times New Roman', Times, serif;}
+
+.underline{
+    text-decoration: underline; 
+}
+
+.fontsize{
+    font-size: medium;
+}
+
+.center{
+    text-align: center;
+}
+
+.imagecenter{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
